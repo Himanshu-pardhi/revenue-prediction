@@ -19,10 +19,15 @@ Project type: Team project
 ## Required libraries:
 For running the code we need to install the following libraries:
 Numpy
+
 Pandas
+
 Sklearn
+
 xgboost
-Seaborn 
+
+Seaborn
+
 Matplotlib
 
 ## Contributors:
