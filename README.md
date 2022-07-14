@@ -1,20 +1,27 @@
-# Revenue Prediction ML
+## Revenue Prediction ML
 
-The project is releated to the prediction of the incoming year,
-on base of finacial data.
+# Project 
+A Machine Learning model to predict the company's revenue for the next year based on historical data (the 5 years past annual reports).
 
-1.Data Exploration  
-2.Cleaning Data  
-3.Selection of Models  
-4.Hyperparameter Optimization  
-5.Fitting the Model  
-6.Evaluation of Model
+Project type: Team project
 
-## Data Exploration  
-Explore the data, visualizing for a better approche of choosing 
-the right feature.
+## Description of the python files:
+01-ExplorationData: Explore the data, visualizing for a better understanding on the data and relation between the variables. We did some analysis like correlation matrices, graphics and descriptive.
+02-Final_FeaturesTarget: Clean the data and handeled mising values. Select features and target for the model.
+03-Models_evaluation: Evaluated some regression models, on the basis of some metrics.
+04-HyperParameter: Find the best parameters for the model selected. 
+05-Final_Model: Selected Random forest regression model.
 
-## Data Cleaning  
+## Required libraries:
+For running the code we need to install the following libraries:
+Numpy
+Pandas
+Sklearn
+xgboost
+Seaborn 
+Matplotlib
 
-## Selection of Models  
-Model selection : Checked with some regression models, on the basis of some Metrics select Random forest regression.
+## Contributors:
+Yuri Hernandez Flores
+Stefan Mihut
+Himanshu Pardhi
